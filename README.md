@@ -1,6 +1,6 @@
 # Clearhead Login Page 🚀
 
-![clearhead_login_page_demo](link_do_zrzutu_ekranu.png)
+<img width="1061" alt="introduction_animation" src="https://github.com/blaszkaaa/portfolio_app2/assets/58654924/98dea212-7910-4888-9e40-cb08073ccf9d">
 
 Clearhead Login Page to prosty projekt stworzony na zlecenie Clearhead w celu demonstracji strony logowania. Ten projekt może posłużyć jako przykład implementacji interfejsu użytkownika dla logowania do aplikacji.
 
@@ -20,7 +20,7 @@ Aby uruchomić ten projekt na swoim urządzeniu, wykonaj następujące kroki:
 
 1. Sklonuj repozytorium na swoje urządzenie:
    
-   git clone https://github.com/twoje-konto/clearhead-login-page.git
+   git clone https://github.com/blaszkaaa/portfolio_app2.git
    
 
 2. Wejdź do katalogu projektu:
@@ -36,7 +36,7 @@ Ten projekt jest napisany w języku [Dart] i używa [Flutter] jako podstawy. Upe
 
 ## Autor
 
-Projekt Clearhead Login Page został stworzony na zlecenie Clearhead przez [blaszkaaa]. Kontakt do autora: [mateuszniema1@gmail.com].
+Projekt Clearhead Login Page został stworzony na zlecenie Clearhead przez blaszkaaa. Kontakt do autora: [mateuszniema1@gmail.com].
 
 ## Licencja
 
